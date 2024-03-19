@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Github is Too Hard for me yet.
-### Please help me a lot! :)
+  
 <!--
 **hoonseokyoon/hoonseokyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
